@@ -68,6 +68,9 @@ document.addEventListener("DOMContentLoaded", function () {
       const lang = this.getAttribute("data-lang");
       setLanguage(lang);
       updateLanguageDropdown();
+
+      // Close mobile menu after language selection
+      closeMobileMenu();
     });
   });
 
@@ -80,21 +83,38 @@ document.addEventListener("DOMContentLoaded", function () {
   const icon = themeToggle.querySelector("i");
 
   // Check for saved theme preference, default to light mode if none exists
-  const savedTheme = localStorage.getItem("theme") || "light-mode";
+  let savedTheme = localStorage.getItem("theme") || "light-mode";
   body.className = savedTheme;
   updateThemeIcon(savedTheme === "dark-mode");
 
   // Theme toggle click handler
-  themeToggle.addEventListener("click", function () {
-    const isDarkMode = body.classList.toggle("dark-mode");
-    body.classList.toggle("light-mode", !isDarkMode);
-    localStorage.setItem("theme", isDarkMode ? "dark-mode" : "light-mode");
-    updateThemeIcon(isDarkMode);
+  themeToggle.addEventListener("click", function (e) {
+    e.preventDefault();
+    e.stopPropagation();
+
+    // Remove both classes first
+    body.classList.remove("dark-mode", "light-mode");
+
+    // Toggle to the opposite theme
+    const isCurrentlyDark = savedTheme === "dark-mode";
+    const newTheme = isCurrentlyDark ? "light-mode" : "dark-mode";
+
+    body.classList.add(newTheme);
+    localStorage.setItem("theme", newTheme);
+    updateThemeIcon(newTheme === "dark-mode");
+
+    // Update saved theme for next click
+    savedTheme = newTheme;
+
+    // Close mobile menu after theme toggle
+    closeMobileMenu();
   });
 
   // Update theme icon
   function updateThemeIcon(isDarkMode) {
-    icon.className = isDarkMode ? "fas fa-sun" : "fas fa-moon";
+    if (icon) {
+      icon.className = isDarkMode ? "fas fa-sun" : "fas fa-moon";
+    }
   }
 
   // Smooth scrolling for all navigation links
