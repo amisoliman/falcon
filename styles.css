@@ -221,7 +221,7 @@ h3 {
   align-items: center;
   position: relative;
   font-family: "Roboto", sans-serif !important;
-  font-weight: 100 !important;
+  font-weight: 500 !important;
 }
 
 .navbar-brand img {
@@ -244,12 +244,11 @@ h3 {
 
 .navbar-brand div p {
   font-size: 1.05rem;
-  font-weight: 300;
+  font-weight: 100;
   color: var(--gold);
   transition: var(--transition);
   line-height: 1.5rem;
   font-family: "Roboto", sans-serif !important;
-  font-weight: 500;
 }
 .dark-mode .navbar-brand span {
   /* color: var(--gold); */
