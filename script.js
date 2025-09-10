@@ -84,6 +84,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Check for saved theme preference, default to light mode if none exists
   let savedTheme = localStorage.getItem("theme") || "light-mode";
+
+  // Override system dark mode preference on mobile
+  if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    // If system is in dark mode but user hasn't set a preference, start with light mode
+    if (!localStorage.getItem("theme")) {
+      savedTheme = "light-mode";
+    }
+  }
+
   body.className = savedTheme;
   updateThemeIcon(savedTheme === "dark-mode");
 
