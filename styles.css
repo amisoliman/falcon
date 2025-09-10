@@ -2187,3 +2187,12 @@ section h2 {
     transform: scale(0.95);
   }
 }
+
+/* Force website theme to override system theme */
+body {
+  color-scheme: light;
+}
+
+.dark-mode {
+  color-scheme: dark;
+}
