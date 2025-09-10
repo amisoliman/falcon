@@ -2171,3 +2171,19 @@ section h2 {
 .footer-info a:hover {
   color: var(--white);
 } */
+
+/* Mobile theme toggle improvements */
+@media (max-width: 991px) {
+  #themeToggle {
+    width: 36px;
+    height: 36px;
+    padding: 0.4rem;
+    font-size: 1rem;
+    z-index: 1000;
+    position: relative;
+  }
+
+  #themeToggle:active {
+    transform: scale(0.95);
+  }
+}
