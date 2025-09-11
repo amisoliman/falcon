@@ -1443,6 +1443,7 @@ footer .col-md-4:last-child {
 
 /* Copyright Line */
 .copyright {
+  text-align: center;
   color: #ccc;
   font-size: 0.9rem;
   /* margin-top: 1rem; */
@@ -1860,6 +1861,7 @@ footer .col-md-4:last-child {
 
 /* Copyright Line */
 .copyright {
+  text-align: center;
   color: #ccc;
   font-size: 0.9rem;
   /* margin-top: 1rem; */
