@@ -15,9 +15,9 @@ const translations = {
     about: {
       title: "Falcon Localisation",
       paragraph1:
-        "For over 20 years, Rayany Translations has been helping businesses go beyond simple translation. We not only deliver clear, accurate language solutions but also provide valuable regulatory insights across a wide range of industries and technical fields. Our experts make sure inconsistencies are spotted, errors are corrected, and every document meets the highest standard of accuracy.",
+        "For over 20 years, Falcon Localisation has been helping businesses go beyond simple translation. We not only deliver clear, accurate language solutions but also provide valuable regulatory insights across a wide range of industries and technical fields. Our experts make sure inconsistencies are spotted, errors are corrected, and every document meets the highest standard of accuracy.",
       paragraph2:
-        "We're committed to combining exceptional quality with cost-effective solutions—bringing real value to every client we serve. At Rayany, we pride ourselves on going the extra mile, offering translation services that truly stand out and make a difference.",
+        "We're committed to combining exceptional quality with cost-effective solutions—bringing real value to every client we serve. At Falcon Localisation, we pride ourselves on going the extra mile, offering translation services that truly stand out and make a difference.",
 
       mission: {
         title: "Mission",
@@ -84,17 +84,17 @@ const translations = {
       client1: {
         name: "Elite Outsource",
         position: "Business Development",
-        text: "Rayany Translations has been an invaluable partner for our business. Their technical translation services are exceptional, and they consistently deliver accurate, high-quality translations that meet our strict deadlines. Highly recommended!",
+        text: "Falcon Localisation has been an invaluable partner for our business. Their technical translation services are exceptional, and they consistently deliver accurate, high-quality translations that meet our strict deadlines. Highly recommended!",
       },
       client2: {
         name: "Xpress Publishing Services",
         position: "Publishing Director",
-        text: "The DTP services provided by Rayany are outstanding. Their attention to detail in typesetting and localization has helped us reach new markets effectively. Professional, reliable, and always on time.",
+        text: "The DTP services provided by Falcon Localisation are outstanding. Their attention to detail in typesetting and localization has helped us reach new markets effectively. Professional, reliable, and always on time.",
       },
       client3: {
         name: "Tamayuz Integrated Company",
         position: "Project Manager",
-        text: "Working with Rayany on our software development project was a fantastic experience. Their team delivered a custom web application that exceeded our expectations. Great communication and technical expertise.",
+        text: "Working with Falcon Localisation on our software development project was a fantastic experience. Their team delivered a custom web application that exceeded our expectations. Great communication and technical expertise.",
       },
     },
     contact: {
@@ -134,7 +134,7 @@ const translations = {
       },
       mainEmail: "Main Email:",
       copyright:
-        "© 2025 Falcon Localisation for Translation and Desktop Publishing Services. All rights reserved.",
+        "Copyright © 2025 Falcon Localisation for Translation and Desktop Publishing Services. All rights reserved",
     },
   },
   ar: {
@@ -152,20 +152,16 @@ const translations = {
     about: {
       title: "فالكون للترجمة وخدمات النشر",
       paragraph1:
-        "فالكون للترجمة وخدمات النشر هي شركة رائدة موثوقة في حلول الترشيح في جميع أنحاء الشرق الأوسط. كوكلاء حصريين لشركة صينية مشهورة، نقدم فلاتر سيراميك عالية الجودة، وفلاتر جمع الغبار، وأنظمة ترشيح الغازات الضارة، لخدمة قطاعات الغاز والطاقة",
+        "لأكثر من 20 عاماً، تساعد فالكون للترجمة الشركات على تجاوز الترجمة البسيطة. نحن لا نقدم فقط حلول لغوية واضحة ودقيقة، بل نوفر أيضاً رؤى تنظيمية قيمة عبر مجموعة واسعة من الصناعات والمجالات التقنية. يضمن خبراؤنا اكتشاف التناقضات وتصحيح الأخطاء ووصول كل وثيقة إلى أعلى معايير الدقة",
       paragraph2:
-        "نحن أيضاً الممثل الحصري لشركة AAF، الرائدة عالمياً في ترشيح الهواء، في المملكة العربية السعودية، حيث نقدم حلول ترشيح هواء متقدمة مصممة لتلبية أعلى المعايير",
-      paragraph3:
-        "بالإضافة إلى ذلك، تقدم فالكون للترجمة وخدمات النشر خدمات الصيانة والاستبدال لفلتر التوربينات الغازية، مما يضمن الأداء الأمثل والموثوقية لعملائنا",
-      paragraph4:
-        "تتخصص شركتنا في تقديم منتجات وخدمات تقنياً متفوقة وعالية الجودة وفعالة من حيث التكلفة. مع التزامنا برضا العملاء والتركيز على ضمان بيئة عمل آمنة، نقود النمو المربح من خلال الابتكار والنزاهة. يمتد تفانينا إلى ما هو أبعد من النجاح التجاري؛ نهدف إلى خلق حلول تفيد المجتمعات والبيئة، نسعى نحو مستقبل أكثر إشراقاً واستدامة",
+        "نحن ملتزمون بدمج الجودة الاستثنائية مع الحلول الموفرة للتكلفة، مما يجلب قيمة حقيقية لكل عميل نخدمه. في فالكون للترجمة، نفخر بالذهاب إلى أبعد من المطلوب، ونقدم خدمات ترجمة تبرز حقاً وتحدث فرقاً",
       mission: {
         title: "مهمتنا",
-        text: "مهمتنا هي تقديم منتجات وخدمات تقنياً متفوقة وعالية الجودة وفعالة من حيث التكلفة. نحن مكرسون لإرضاء عملائنا، وضمان بيئة عمل آمنة، وقيادة النمو المربح",
+        text: "مهمتنا هي ربط اللغات بالدقة والوضوح والفهم الثقافي. نحن مكرسون لدعم الشركات والمنظمات في جميع أنحاء العالم من خلال تقديم حلول الترجمة والتنظيمية التي تكون دقيقة وموثوقة ومصممة خصيصاً لاحتياجات الصناعة. كل مشروع نتولاه مدفوع بالتزامنا بالجودة والكفاءة وإضافة قيمة حقيقية لعملائنا",
       },
       vision: {
         title: "رؤيتنا",
-        text: "رؤيتنا هي تمكين التقدم المستدام من خلال الابتكار والنزاهة. نهدف إلى قيادة التطورات التي تفيد المجتمعات والبيئة، خالقين حلولاً لمستقبل أكثر إشراقاً واستدامة",
+        text: "رؤيتنا هي أن نكون قادة عالميين موثوقين في خدمات اللغة والتنظيم، معترف بنا لتحويل التواصل المعقد إلى فهم سلس. نسعى لوضع معيار التميز في صناعة الترجمة من خلال الجمع بين الخبرة والابتكار ونهج العملاء أولاً، مما يساعد المنظمات على التواصل والامتثال والازدهار بثقة في عالم مترابط بشكل متزايد",
       },
     },
     services: {
@@ -215,17 +211,17 @@ const translations = {
       client1: {
         name: "Elite Outsource",
         position: "تطوير الأعمال",
-        text: "كانت ترجمات راياني شريكاً لا يقدر بثمن لأعمالنا. خدمات الترجمة التقنية لديهم استثنائية، وهم يقدمون باستمرار ترجمات دقيقة وعالية الجودة تلبي مواعيدنا النهائية الصارمة. أنصح بها بشدة",
+        text: "كانت فالكون للترجمة شريكاً لا يقدر بثمن لأعمالنا. خدمات الترجمة التقنية لديهم استثنائية، وهم يقدمون باستمرار ترجمات دقيقة وعالية الجودة تلبي مواعيدنا النهائية الصارمة. أنصح بها بشدة",
       },
       client2: {
         name: "Xpress Publishing Services",
         position: "مدير النشر",
-        text: "خدمات النشر المكتبي التي تقدمها راياني متميزة. انتباههم للتفاصيل في التنضيد والتوطين ساعدنا في الوصول إلى أسواق جديدة بفعالية. مهنيون وموثوقون ودائماً في الوقت المحدد",
+        text: "خدمات النشر المكتبي التي تقدمها فالكون للترجمة متميزة. انتباههم للتفاصيل في التنضيد والتوطين ساعدنا في الوصول إلى أسواق جديدة بفعالية. مهنيون وموثوقون ودائماً في الوقت المحدد",
       },
       client3: {
         name: "شركة تمييز المتكاملة",
         position: "مدير المشروع",
-        text: "العمل مع راياني في مشروع تطوير البرمجيات كان تجربة رائعة. قدم فريقهم تطبيق ويب مخصصاً تجاوز توقعاتنا. تواصل رائع وخبرة تقنية ممتازة",
+        text: "العمل مع فالكون للترجمة في مشروع تطوير البرمجيات كان تجربة رائعة. قدم فريقهم تطبيق ويب مخصصاً تجاوز توقعاتنا. تواصل رائع وخبرة تقنية ممتازة",
       },
     },
     contact: {
@@ -263,7 +259,7 @@ const translations = {
         email: "البريد الإلكتروني:",
       },
       mainEmail: "البريد الإلكتروني الرئيسي:",
-      copyright: "© 2025 فالكون للترجمة وخدمات النشر. جميع الحقوق محفوظة",
+      copyright: "حقوق النشر © 2025 فالكون للترجمة وخدمات النشر المكتبي. جميع الحقوق محفوظة",
     },
   },
   de: {
@@ -281,20 +277,16 @@ const translations = {
     about: {
       title: "Falcon Lokalisierung",
       paragraph1:
-        "Seit über 20 Jahren hilft Rayany Translations Unternehmen dabei, über einfache Übersetzungen hinauszugehen. Wir liefern nicht nur klare, präzise Sprachlösungen, sondern bieten auch wertvolle regulatorische Einblicke in eine breite Palette von Branchen und technischen Bereichen. Unsere Experten sorgen dafür, dass Inkonsistenzen erkannt, Fehler korrigiert und jedes Dokument höchsten Genauigkeitsstandards entspricht",
+        "Seit über 20 Jahren hilft Falcon Localisation Unternehmen dabei, über einfache Übersetzungen hinauszugehen. Wir liefern nicht nur klare, präzise Sprachlösungen, sondern bieten auch wertvolle regulatorische Einblicke in eine breite Palette von Branchen und technischen Bereichen. Unsere Experten sorgen dafür, dass Inkonsistenzen erkannt, Fehler korrigiert und jedes Dokument höchsten Genauigkeitsstandards entspricht",
       paragraph2:
-        "Wir sind bestrebt, außergewöhnliche Qualität mit kosteneffektiven Lösungen zu verbinden und echten Mehrwert für jeden Kunden zu schaffen, dem wir dienen. Bei Rayany sind wir stolz darauf, den Extrameilen zu gehen und Übersetzungsdienstleistungen anzubieten, die wirklich hervorstechen und einen Unterschied machen",
-      paragraph3:
-        "Unser Team aus erfahrenen Linguisten und Branchenspezialisten arbeitet unermüdlich daran, sicherzustellen, dass Ihre Botschaft nicht nur übersetzt, sondern auch kulturell angepasst und für Ihr Zielpublikum optimiert wird. Wir verstehen, dass jede Übersetzung einzigartig ist und erfordert einen maßgeschneiderten Ansatz",
-      paragraph4:
-        "Mit einem starken Fokus auf Qualität, Genauigkeit und Kundenzufriedenheit haben wir uns als vertrauenswürdiger Partner für Unternehmen auf der ganzen Welt etabliert. Lassen Sie uns Ihnen dabei helfen, Sprachbarrieren zu überwinden und Ihre globale Reichweite zu erweitern",
+        "Wir sind bestrebt, außergewöhnliche Qualität mit kosteneffektiven Lösungen zu verbinden und echten Mehrwert für jeden Kunden zu schaffen, dem wir dienen. Bei Falcon Localisation sind wir stolz darauf, den Extrameilen zu gehen und Übersetzungsdienstleistungen anzubieten, die wirklich hervorstechen und einen Unterschied machen",
       mission: {
         title: "Unsere Mission",
-        text: "Unsere Mission ist es, außergewöhnliche Übersetzungs- und Desktop-Publishing-Dienstleistungen zu liefern, die Unternehmen dabei helfen, erfolgreich in globalen Märkten zu kommunizieren und zu operieren",
+        text: "Unsere Mission ist es, Sprachen mit Genauigkeit, Klarheit und kulturellem Verständnis zu verbinden. Wir sind bestrebt, Unternehmen und Organisationen weltweit zu unterstützen, indem wir Übersetzungs- und Regulierungslösungen liefern, die präzise, zuverlässig und auf die Bedürfnisse der Branche zugeschnitten sind. Jedes Projekt, das wir übernehmen, wird von unserem Engagement für Qualität, Effizienz und der Schaffung von echtem Mehrwert für unsere Kunden angetrieben",
       },
       vision: {
         title: "Unsere Vision",
-        text: "Unsere Vision ist es, die führende Kraft in der Sprachdienstleistungsbranche zu sein und Brücken zwischen Kulturen und Märkten durch präzise, kulturell angepasste Kommunikationslösungen zu schlagen",
+        text: "Unsere Vision ist es, ein vertrauenswürdiger globaler Marktführer in Sprach- und Regulierungsdienstleistungen zu sein, anerkannt für die Transformation komplexer Kommunikation in nahtloses Verständnis. Wir streben danach, den Standard für Exzellenz in der Übersetzungsbranche zu setzen, indem wir Expertise, Innovation und einen kundenorientierten Ansatz kombinieren und Organisationen dabei helfen, sich selbstbewusst zu vernetzen, zu konformieren und in einer zunehmend vernetzten Welt zu gedeihen",
       },
     },
     services: {
@@ -354,17 +346,17 @@ const translations = {
       client1: {
         name: "Elite Outsource",
         position: "Geschäftsentwicklung",
-        text: "Rayany's Übersetzungen waren ein unschätzbarer Partner für unser Geschäft. Ihre technischen Übersetzungsdienstleistungen sind außergewöhnlich und liefern konsequent präzise, hochwertige Übersetzungen, die unsere strengen Fristen einhalten. Sehr empfehlenswert",
+        text: "Falcon Localisation war ein unschätzbarer Partner für unser Geschäft. Ihre technischen Übersetzungsdienstleistungen sind außergewöhnlich und liefern konsequent präzise, hochwertige Übersetzungen, die unsere strengen Fristen einhalten. Sehr empfehlenswert",
       },
       client2: {
         name: "Xpress Publishing Services",
         position: "Verlagsleiter",
-        text: "Die Desktop-Publishing-Dienstleistungen von Rayany sind hervorragend. Ihre Aufmerksamkeit für Details in Typografie und Lokalisierung half uns, neue Märkte effektiv zu erreichen. Professionell, zuverlässig und immer pünktlich",
+        text: "Die Desktop-Publishing-Dienstleistungen von Falcon Localisation sind hervorragend. Ihre Aufmerksamkeit für Details in Typografie und Lokalisierung half uns, neue Märkte effektiv zu erreichen. Professionell, zuverlässig und immer pünktlich",
       },
       client3: {
         name: "Tamayuz Integrated Company",
         position: "Projektmanager",
-        text: "Die Zusammenarbeit mit Rayany an einem Softwareentwicklungsprojekt war eine großartige Erfahrung. Ihr Team lieferte eine maßgeschneiderte Webanwendung, die unsere Erwartungen übertraf. Großartige Kommunikation und ausgezeichnete technische Expertise",
+        text: "Die Zusammenarbeit mit Falcon Localisation an einem Softwareentwicklungsprojekt war eine großartige Erfahrung. Ihr Team lieferte eine maßgeschneiderte Webanwendung, die unsere Erwartungen übertraf. Großartige Kommunikation und ausgezeichnete technische Expertise",
       },
     },
     contact: {
@@ -404,7 +396,7 @@ const translations = {
       },
       mainEmail: "Haupt-E-Mail:",
       copyright:
-        "© 2025 Falcon Lokalisierung für Übersetzungs- und Desktop-Publishing-Dienstleistungen. Alle Rechte vorbehalten",
+        "Copyright © 2025 Falcon Lokalisierung für Übersetzungs- und Desktop-Publishing-Dienstleistungen. Alle Rechte vorbehalten",
     },
   },
 };
